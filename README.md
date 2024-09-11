@@ -6,6 +6,7 @@ The purpose of **sales dashboard** is to present an overview of the **sales metr
 The **customer dashboard** aims to provide an overview of **customer data, trends and behaviors**. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
 
 [**Live Dashboard**](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17260674432040/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Customer_dashboard](Demo_and_images/Customer_dashboard.png)](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17260674432040/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## **Table of content**
 - **Project Overview**
